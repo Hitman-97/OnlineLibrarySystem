@@ -10,7 +10,7 @@ import {
 import { D, C } from '@reduxjs/toolkit';
 import { pr, useDispatch, useSelector } from 'react-redux';
 
-// 
+// this would include all the books 
 const allbooks = [
   { id: 1, title: "George's Secret Key to the Universe", writer: "Lucy Hawking", genre: "Fiction" },
   { id: 2, title: "The Theory Of Everything", writer: "Stephen Hawking", genre: "Biography"},
